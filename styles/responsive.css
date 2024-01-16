@@ -1,0 +1,126 @@
+@media  screen and (max-width: 576px){
+    .content-container{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+}
+@media  screen and (max-width: 576px){
+    .box-container1{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        height: 100%
+        
+    }
+}
+
+
+@media  screen and (max-width: 576px){
+    .box1{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+@media  screen and (max-width: 576px){
+    .box2{
+        flex-direction: column;
+        max-width: 100%;
+        
+    }
+}
+@media  screen and (max-width: 576px){
+    .box-container2{
+        flex-direction: column;
+        max-height: 800px;
+    }
+    
+}
+
+
+
+@media (max-width: 768px) {
+    .header-text-container,
+    .image-container {
+      width: 100%;
+      float: none;
+    }
+  }
+
+  @media  screen and (max-width: 576px){
+    .image-content1{
+         grid-template-columns: 1fr;
+         grid-template-areas: "image1" "image2";
+    }
+}
+@media  screen and (max-width: 576px){
+    .image-content2{
+         grid-template-columns: repeat(1,1fr);
+         grid-template-areas: "image3" "image4" image5;
+    }
+}
+@media  screen and (max-width: 576px){
+    .image-content3{
+         grid-template-columns: repeat(1,1fr);
+    }
+}
+@media  screen and (max-width: 576px){
+    .content7{
+         height: 200px;
+         width: 200px;
+
+    }
+}
+@media  screen and (max-width: 576px){
+    .cont-container1{
+        flex-direction: column;
+       margin-left: 150px;
+       margin-top: 20px;
+       
+        
+
+    }
+}
+@media  screen and (max-width: 576px){
+    .content7-container{
+        flex-direction: column;
+       height: 300px;
+       width: 300px;
+       
+        
+
+    }
+}
+  
+
+
+@media  screen and (max-width: 576px){
+    .content8{
+         height: 300px;
+         width: 300px;
+         
+    }
+}
+@media  screen and (max-width: 576px){
+    .content-container3{
+        grid-template-columns: 1fr;
+         
+    }
+}
+
+
+
+
+
+
+
+
+/* footer last part */
+@media (max-width: 768px) {
+    .head {
+      font-size: 0.8em;
+    }
+  }
